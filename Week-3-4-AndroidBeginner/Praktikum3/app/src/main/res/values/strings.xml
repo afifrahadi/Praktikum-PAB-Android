@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktikum3</string>
+    <string name="go_tomy_profile">Go To My Profile</string>
+    <string name="hello_im_afif_imam_rahadi">Hello, Im Afif Imam Rahadi</string>
+    <string name="go_to_my_github">Go To My Github</string>
+    <string name="afif_imam">Afif Imam</string>
+    <string name="my_profile">My Profile</string>
+    <string name="share">Share</string>
+    <string name="deskripsi">I am an Informatics Undergraduate Student. I am an active person in academic and non-academic fields. I have some of experience in organization, that is why im good at working as a team. Beside that I also self employed, responsible, hardworking, and eager to learn. Interested in Programming, Web Development, Software Engineer and Internet of Things.</string>
+    <string name="pertama">This is my first application program using Android Studio regarding personal profiles as an assignment for mobile application development practicum.</string>
+</resources>

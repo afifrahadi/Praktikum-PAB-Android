@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.l0122006.afifimam.responsi1.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_navigation_home_to_tentangNBAFragment"
+            app:destination="@id/tentangNBAFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_daftar"
+        android:name="com.l0122006.afifimam.responsi1.ui.daftar.DaftarFragment"
+        android:label="@string/title_daftar"
+        tools:layout="@layout/fragment_daftar" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.l0122006.afifimam.responsi1.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/tentangNBAFragment"
+        android:name="com.l0122006.afifimam.responsi1.ui.home.TentangNBAFragment"
+        android:label="fragment_tentang_n_b_a"
+        tools:layout="@layout/fragment_tentang_n_b_a" />
+
+
+</navigation>

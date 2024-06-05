@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cvUser"
+    android:layout_width="match_parent"
+    android:layout_height="205dp"
+    android:layout_margin="12dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="12dp"
+    app:cardCornerRadius="7dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="7dp"
+        android:weightSum="6"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/poster"
+            android:layout_width="120dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="10dp"
+            android:scaleType="fitCenter"/>
+
+        <TextView
+            android:id="@+id/tvJudul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/judul_tv_show"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/tvPopularitas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/total_popularitas"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/tvBahasa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/original_bahasa"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tvRilis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rilis_tv_show"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

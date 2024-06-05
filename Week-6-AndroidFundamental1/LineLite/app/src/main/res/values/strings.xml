@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Line Lite</string>
+    <string name="title_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calls">Calls</string>
+    <string name="title_calls">Calls</string>
+    <string name="news">News</string>
+    <string name="title_news">News</string>
+    <string name="title_chats">Chats</string>
+    <string name="comment_icon">Comment Icon</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="comment_count">190</string>
+    <string name="share_count">220</string>
+
+    <string name="contact_name">Kontak</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="title_of_the_news">Title of the News</string>
+    <string name="news_image">News Image</string>
+    <string name="description_news">Description.</string>
+    <string name="to_category">To Top News</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search">Search..</string>
+    <string name="friends_lists">Friends Lists</string>
+    <string name="alfath_roziq">Alfath Roziq</string>
+    <string name="addin_hadi">Addin Hadi</string>
+    <string name="bintang_harida">Bintang Harida And Other 99+</string>
+    <string name="foto_profile">foto-profile</string>
+    <string name="afif_imam_rahadi">Afif Imam Rahadi</string>
+    <string name="l0122006">L0122006</string>
+    <string name="split_bill">Split Bill</string>
+    <string name="line_bank">Line Bank</string>
+    <string name="themes">Themes</string>
+    <string name="services">Services</string>
+    <string name="home">This is the home display of the Line Lite application. In this application there is chat, news and telephone navigation. Hope you like the features and appearance.</string>
+    <string name="berita_top1">Xavi Ikut Puji Taktik Bertahan Madrid saat Singkirkan City</string>
+    <string name="isi_berita_top1">Keberhasilan Real Madrid menyingkirkan Manchester City di Liga Champions mengundang kritik akibat sepak bola negatif yang mereka peragakan. Namun pelatih Carlo Ancelotti tak ambil pusing dengan hal itu. Bahkan pelatih Barcelona Xavi Hernandez memujinya.Madrid melaju ke semifinal Liga Champions musim ini usai menang adu penalti 4–3 melawan City di Stadion Etihad, Kamis (18/4/2024) dinihari WIB silam. Kedua tim bermain imbang 3-3 di leg pertama dan 1-1 di leg kedua, sehingga pemenang ditentukan lewat tos-tosan.</string>
+    <string name="avatar">avatar</string>
+
+
+    <!--Kontak (Chat dan Call)-->
+    <string-array name="data_name">
+        <item>Alfath</item>
+        <item>Bintang</item>
+        <item>Brama</item>
+        <item>Addin</item>
+        <item>Mahrez</item>
+        <item>Adid</item>
+        <item>Andy</item>
+        <item>Bimo</item>
+        <item>Frizky</item>
+        <item>Abe</item>
+    </string-array>
+
+    <!--Isi Chats-->
+    <string-array name="data_desc_chats">
+        <item><![CDATA[Halo Afif, Apa kabarr?]]></item>
+        <item><![CDATA[Ini Bintang, Halo Afif!!]]></item>
+        <item><![CDATA[Pip main Yukkk!!]]></item>
+        <item><![CDATA[Kenalin nama aku Addin, kamu Afif kan?]]></item>
+        <item><![CDATA[This is Mahrez, Who Are you?]]></item>
+        <item><![CDATA[Sini pip kerja kelompok di CnB]]></item>
+        <item><![CDATA[Jangann lupa dateng arak arakan pip, besok pagi]]></item>
+        <item><![CDATA[Login CS cepet]]></item>
+        <item><![CDATA[Mau immortal gak, ayo mainn]]></item>
+        <item><![CDATA[Kapan kumpul bahas musik pip]]></item>
+    </string-array>
+
+    <!--    Gambar chat dan call-->
+    <integer-array name="data_img">
+        <item>@drawable/kontak1</item>
+        <item>@drawable/kontak2</item>
+        <item>@drawable/kontak3</item>
+        <item>@drawable/kontak4</item>
+        <item>@drawable/kontak5</item>
+        <item>@drawable/kontak6</item>
+        <item>@drawable/kontak7</item>
+        <item>@drawable/kontak8</item>
+        <item>@drawable/kontak9</item>
+        <item>@drawable/kontak10</item>
+    </integer-array>
+
+    <!--    Isi call-->
+    <string-array name="data_date_calls">
+        <item><![CDATA[Yesterday]]></item>
+        <item><![CDATA[20/4]]></item>
+        <item><![CDATA[19/4]]></item>
+        <item><![CDATA[18/4]]></item>
+        <item><![CDATA[17/4]]></item>
+        <item><![CDATA[16/4]]></item>
+        <item><![CDATA[15/4]]></item>
+        <item><![CDATA[14/4]]></item>
+        <item><![CDATA[13/4]]></item>
+        <item><![CDATA[12/4]]></item>
+    </string-array>
+
+    <!--    NEWS-->
+    <string-array name="data_name_news">
+        <item>Xavi Ikut Puji Taktik Bertahan Madrid saat Singkirkan City</item>
+        <item>Lima Negara yang Sudah Lolos ke Perempatfinal PIala Asia U-23 2024</item>
+        <item>Hasil Kualifikasi F1 GP China: Max Verstappen Raih Pole</item>
+        <item>Jorge Martin Masih Pimpin Klasemen: Bagnaia Tetap Favoritnya</item>
+        <item>Olimpiade Paris 2024 Jadi Kesempatan Kedua Gregoria Mariska</item>
+    </string-array>
+
+    <string-array name="data_desc_news">
+        <item><![CDATA[Keberhasilan Real Madrid menyingkirkan Manchester City di Liga Champions mengundang kritik akibat sepak bola negatif yang mereka peragakan. Namun pelatih Carlo Ancelotti tak ambil pusing dengan hal itu. Bahkan pelatih Barcelona Xavi Hernandez memujinya.]]></item>
+        <item><![CDATA[Lima tim sudah memastikan diri melaju ke perempat final Piala Asia U-23 2024. Dari Grup A, Qatar sudah memastikan diri menjadi juara grup usai meraih kemenangan atas Indonesia dan Yordania. Dengan enam poin, mereka sudah dipastikan tak tergeser dari puncak klasemen.]]></item>
+        <item><![CDATA[Max Verstappen merebut pole usai kualifikasi F1 GP China. Sementara itu, Lewis Hamilton dapat hasil jeblok dan cuma menempati posisi ke-18.Dalam sesi kualifikasi di Shanghai International Circuit. Verstappen mencatatkan waktu terbaik 1 menit 33,660 detik di Q3.]]></item>
+        <item><![CDATA[Austin - Jorge Martin masih nyaman memuncaki klasemen MotoGP 2024 setelah tiga seri pertama. Namun, Martin menegaskan, Francesco Bagnaia tetap favorit juara musim ini. Pebalap Pramac Ducati itu menunjukkan penampilan cemerlang total enam balapan pertama.]]></item>
+        <item><![CDATA[Gregoria Mariska Tunjung tak ingin menyia-nyiakan kesempatan tampil di Olimpiade Paris 2024. Untuk itu, ia ingin lebih menjaga diri sampai hari pertandingan digelar. Jorji, lolos ke Olimpiade untuk kali kedua.]]></item>
+
+    </string-array>
+
+    <integer-array name="data_img_news">
+        <item>@drawable/madrid</item>
+        <item>@drawable/berita2</item>
+        <item>@drawable/berita3</item>
+        <item>@drawable/berita4</item>
+        <item>@drawable/berita5</item>
+    </integer-array>
+
+</resources>

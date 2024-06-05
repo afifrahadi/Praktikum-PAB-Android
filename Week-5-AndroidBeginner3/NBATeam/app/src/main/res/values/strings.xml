@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">NBA Team</string>
+    <string name="nba_team">Nama Team</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Boston Celtics</item>
+        <item>Golden State Warriors</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Mempish Grizzlies</item>
+        <item>Miami Heat</item>
+        <item>Oklahama City Thunder</item>
+        <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Washington Wizard</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item><![CDATA[Boston Celtic adalah tim yang berada di wilayah Timur. Saat ini Boston Celtics berada pada puncak klasemen dengan kemenangan sebanyak 59 match. Tim ini memiliki bintang pemain, yaitu Jayson Tatum.]]></item>
+        <item><![CDATA[Golden State Warriors adalah tim yang berada di wilayah Barat. Saat ini GSW berada di urutan kesepulah dengan kemenangan sebanyak 41 match. Tim ini memiliki shooter terbaik, yaitu Stephen Curry]]></item>
+        <item><![CDATA[Los Angeles Clippers adalah tim yang berada di wilayah Barat. Saat ini berada di urutan keempat dengan kemenangan 47 match. Tim ini memiliki bintang pemain, yaitu Russel Wetsbrook.]]></item>
+        <item><![CDATA[Los Angeles Lakers adalah tim yang berada di wilayah Barat. Saat ini berada di urutan kesembilan dengan kemenangan sebanyak 43 match. Tim ini memiliki bintang pemain, yaitu Lebron James.]]></item>
+        <item><![CDATA[Mempish Grizzlies adalah tim yang berada di wilayah Barat. Saat ini berada di urutan ketiga belas dengan kemenangan sebanyak 25 match. Tim ini memiliki bintang pemain, yaitu Ja Morant]]></item>
+        <item><![CDATA[Miami Heat adalah tim yang berada di wilayah Timur. Saat ini berada di urutan ketujuh dengan kemenangan sebanyak 42 match. Tim ini memiliki bintang pemain, yaitu Jimmy Butler]]></item>
+        <item><![CDATA[Oklahama City Thunder adalah tim yang berada di wilayah Barat. Saat ini berada di urutan kedua dengan kemenangan sebanyak 52 match. Tim ini memiliki bintang pemain, yaitu Shai Gilgeous-Alexander]]></item>
+        <item><![CDATA[San Antonio Spurs adalah tim yang berada di wilayah Barat. Saat ini berada di urutan terbawah dengan kemenangan sebanyak 18 match. Tim ini memiliki bintang pemain, yaitu Victor Wembanyama ]]></item>
+        <item><![CDATA[Toronto Raptors adalah tim yang berada di wilayah Timur. Saat ini berada di urutan kedua belas dengan kemenangan sebanyak 23 match. Tim ini memiliki bintang pemain, yaitu Pascal Siakam]]></item>
+        <item><![CDATA[Washington Wizard adalah tim yang berada di wilayah Timur. Saat ini berada di urutan keempat belas dengan kemenangan sebanyak 15 match. Tim ini memiliki bintang pemain, yaitu Jordan Poole]]></item>
+    </string-array>
+
+    <integer-array name="data_img">
+        <item>@drawable/boston</item>
+        <item>@drawable/gsw</item>
+        <item>@drawable/clippers</item>
+        <item>@drawable/lakers</item>
+        <item>@drawable/griziles</item>
+        <item>@drawable/heat</item>
+        <item>@drawable/thunder</item>
+        <item>@drawable/spurs</item>
+        <item>@drawable/raptors</item>
+        <item>@drawable/wizard</item>
+    </integer-array>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="foto_team">Foto Team</string>
+</resources>

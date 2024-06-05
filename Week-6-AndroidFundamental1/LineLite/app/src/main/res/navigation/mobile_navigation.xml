@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.l0122006.afifimam.linelite.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_navigation_home_to_bundleFragment2"
+            app:destination="@id/bundleFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_chats"
+        android:name="com.l0122006.afifimam.linelite.ui.chats.ChatsFragment"
+        android:label="@string/title_chats"
+        tools:layout="@layout/fragment_chats" />
+
+    <fragment
+        android:id="@+id/navigation_calls"
+        android:name="com.l0122006.afifimam.linelite.ui.calls.CallsFragment"
+        android:label="@string/title_calls"
+        tools:layout="@layout/fragment_calls" />
+
+    <fragment
+        android:id="@+id/navigation_news"
+        android:name="com.l0122006.afifimam.linelite.ui.news.NewsFragment"
+        android:label="@string/title_news"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/bundleFragment"
+        android:name="com.l0122006.afifimam.linelite.BundleFragment"
+        android:label="fragment_bundle"
+        tools:layout="@layout/fragment_bundle"/>
+
+
+</navigation>

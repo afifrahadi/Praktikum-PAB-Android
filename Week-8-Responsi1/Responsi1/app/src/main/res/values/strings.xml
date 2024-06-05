@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Responsi 1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_daftar">Tentang Team</string>
+    <string name="my_profile">My Profile</string>
+    <string name="afif_imam">foto afif</string>
+    <string name="nama_lengkap">Afif Imam Rahadi</string>
+    <string name="nim">L0122006</string>
+    <string name="prodi_angkatan">Informatika - 2022</string>
+    <string name="fakultas">Fakultas Teknologi Informasi dan Sains Data</string>
+    <string name="universitas">Universitas Sebelas Maret</string>
+    <string name="email">afifrahadi@student.uns.ac.id</string>
+    <string name="share">Share</string>
+    <string name="my_app">NBA App</string>
+    <string name="deskrpsi_nba">Aplikasi ini memiliki tema yaitu NBA. Di dalam Aplikasi ini terbagi menjadi 3 bagian halama, yaitu halaman utama, daftar team, dan profile saya. NBA adalah National Basketball Association yang merupakan liga bola basket pria yang paling bergengsi di dunia. Di dalam NBA, tim dibagi menjadi dua wilayah yaitu West team dan East Team.</string>
+    <string name="more_about_nba">Tentang NBA</string>
+    <string name="nba_team">NBA Team</string>
+    <string name="description">Deskripsi Team</string>
+    <string name="tentang_nba">Tentang NBA</string>
+    <string name="foto_tentang_nba">foto_tentang_nba</string>
+    <string name="isi_tentang_nba">NBA terbentuk pada awal tahun 1949. Dahulu, hanya 11 team yang ada dalam liga ini. Seiring berjalannya waktu, banyak team yang sudah masuk ke dalam NBA dan membuat liga ini menjadi lebih menarik. Saat ini, NBA diurus oleh Adam Silver. Adam Silver merupakan Komisaris NBA yang membawa dirinya menjadi seorang yang paling berpengaruh di bisnis olahraga. Silver bergabung dalam National Basketball Association (NBA) pada 1992. Selama delapan tahun bergabung, ia menjabat sebagai wakil komisaris dan chief operating officer dan terlibat dalam negosiasi tiga perjanjian kerja sama bersama National Basketball Players Association</string>
+    <string name="foto_detail">foto detail</string>
+
+    <string-array name="data_name">
+        <item>Boston Celtics</item>
+        <item>Golden State Warriors</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Mempish Grizzlies</item>
+        <item>Miami Heat</item>
+        <item>Oklahama City Thunder</item>
+        <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Washington Wizard</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item><![CDATA[Boston Celtic adalah tim yang berada di wilayah Timur. Saat ini Boston Celtics berada pada puncak klasemen dengan kemenangan sebanyak 59 match. Tim ini memiliki bintang pemain, yaitu Jayson Tatum. Boston Celtics sudah banyak memenangkan pertandingan dan hampir selalu lolos playoff bahkan hingga ke final East conference.]]></item>
+        <item><![CDATA[Golden State Warriors adalah tim yang berada di wilayah Barat. Saat ini GSW berada di urutan kesepulah dengan kemenangan sebanyak 41 match. Tim ini memiliki shooter terbaik, yaitu Stephen Curry. Golden state sempat menjadi tim paling menyeramkan dengan rekor regular season 73-9 yang membuatnya tertulis di dalam sejarah dan sulit untuk dipatahkan.]]></item>
+        <item><![CDATA[Los Angeles Clippers adalah tim yang berada di wilayah Barat. Saat ini berada di urutan keempat dengan kemenangan 47 match. Tim ini memiliki bintang pemain, yaitu Russel Wetsbrook. Tim ini sudah banyak mendatangkan pemain bintang baru seperti James Harden, Paul George, dan lainnya. Tim ini termasuk tim yang memiliki banyak superstar.]]></item>
+        <item><![CDATA[Los Angeles Lakers adalah tim yang berada di wilayah Barat. Saat ini berada di urutan kesembilan dengan kemenangan sebanyak 43 match. Tim ini memiliki bintang pemain, yaitu Lebron James. Duo terbaik tim ini adalah Lebron James dan Anthony Davis yang membuatnya sulit untuk dikalahkan. Perpaduan kehebatan mereka yang membuat Lakers ini menjadi tim yang mengerikan.]]></item>
+        <item><![CDATA[Mempish Grizzlies adalah tim yang berada di wilayah Barat. Saat ini berada di urutan ketiga belas dengan kemenangan sebanyak 25 match. Tim ini memiliki bintang pemain, yaitu Ja Morant. Dipimpin oleh Ja Morant yang menjadikan tim ini berbahaya bagi yang lainnya. Keatletisan Ja Morant membuatnya menjadi superstar dan menyebabkan tim lain kebingungan untuk menjaganya.]]></item>
+        <item><![CDATA[Miami Heat adalah tim yang berada di wilayah Timur. Saat ini berada di urutan ketujuh dengan kemenangan sebanyak 42 match. Tim ini memiliki bintang pemain, yaitu Jimmy Butler. Jimmy yang sebelumnya membawa tim nya hingga Finals NBA berusaha keras untuk memenangkan final. Tim ini memiliki role yang sangat lengkap yang menyebabkan tim ini sangat berbahaya.]]></item>
+        <item><![CDATA[Oklahama City Thunder adalah tim yang berada di wilayah Barat. Saat ini berada di urutan kedua dengan kemenangan sebanyak 52 match. Tim ini memiliki bintang pemain, yaitu Shai Gilgeous-Alexander. Tim ini pada tahun ini sangat bermain dengan bagus hingga masuk ke dalam playoff. Tim ini mengandalkan team work dan disiplin sehingga permainnya begitu bagus.]]></item>
+        <item><![CDATA[San Antonio Spurs adalah tim yang berada di wilayah Barat. Saat ini berada di urutan terbawah dengan kemenangan sebanyak 18 match. Tim ini memiliki bintang pemain, yaitu Victor Wembanyama. Dengan adanya victor 1st pick draft kemaren, tim ini menjadi tim yang cukup bahasa karena memiliki center yang begitu tinggi.]]></item>
+        <item><![CDATA[Toronto Raptors adalah tim yang berada di wilayah Timur. Saat ini berada di urutan kedua belas dengan kemenangan sebanyak 23 match. Tim ini memiliki bintang pemain, yaitu Pascal Siakam. Tim ini sempat menjuarai NBA karena memiliki pemain yang sangat baik. Tim ini terkenal dengan supporter utamanya yaitu Drake.]]></item>
+        <item><![CDATA[Washington Wizard adalah tim yang berada di wilayah Timur. Saat ini berada di urutan keempat belas dengan kemenangan sebanyak 15 match. Tim ini memiliki bintang pemain, yaitu Jordan Poole. Tahun ini, tim ini tidak bermain dengan baik karena banyak pertukaran pemain. Tapi, tim ini cukup ditakuti oleh tim yang lainnya.]]></item>
+    </string-array>
+
+    <integer-array name="data_img">
+        <item>@drawable/boston</item>
+        <item>@drawable/gsw</item>
+        <item>@drawable/clippers</item>
+        <item>@drawable/lakers</item>
+        <item>@drawable/griziles</item>
+        <item>@drawable/heat</item>
+        <item>@drawable/thunder</item>
+        <item>@drawable/spurs</item>
+        <item>@drawable/raptors</item>
+        <item>@drawable/wizard</item>
+    </integer-array>
+
+</resources>

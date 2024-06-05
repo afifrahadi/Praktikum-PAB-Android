@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity">
+
+    <ImageView
+        android:id="@+id/foto_show"
+        android:layout_width="350dp"
+        android:layout_height="480dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/foto_show"
+        android:layout_marginTop="90dp"
+        />
+
+    <TextView
+        android:id="@+id/judul_show"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/foto_show"
+        app:layout_constraintStart_toStartOf="@id/foto_show"
+        app:layout_constraintEnd_toEndOf="@id/foto_show"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:text="@string/judul_show_main" />
+
+
+    <TextView
+        android:id="@+id/rilis_show"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/judul_show"
+        app:layout_constraintStart_toStartOf="@id/foto_show"
+        app:layout_constraintEnd_toEndOf="@id/foto_show"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:text="@string/tahun_rilis_main" />
+
+
+    <Button
+        android:id="@+id/btn_to_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/rilis_show"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="30dp"
+        android:text="@string/to_see_list_of_tv_shows" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

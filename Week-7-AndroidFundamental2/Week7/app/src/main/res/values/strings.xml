@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Week 7</string>
+    <string name="tab_text_NBA">NBA Teams</string>
+    <string name="tab_text_PL">Premier League</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_halaman_nba">ini halaman nba</string>
+    <string name="halaman_premier_league">halaman premier league</string>
+    <string name="nama_tim">Nama Tim</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="cat_name">Nama Kucing</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name_nba">
+        <item>Boston Celtics</item>
+        <item>Golden State Warriors</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Mempish Grizzlies</item>
+        <item>Miami Heat</item>
+        <item>Oklahama City Thunder</item>
+        <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Washington Wizard</item>
+    </string-array>
+
+    <string-array name="data_desc_nba">
+        <item><![CDATA[Boston Celtics adalah tim di wilayah Timur yang dibintangi oleh Jason Tatum.]]></item>
+        <item><![CDATA[Golden State Warriors adalah tim di wilayah Barat yang dibintangi oleh Stephen Curry.]]></item>
+        <item><![CDATA[Los Angeles Clippers adalah tim di wilayah Barat yang dibintangi oleh James Harden.]]></item>
+        <item><![CDATA[Los Angeles Lakers adalah tim di wilayah Barat yang dibintangi oleh Lebron James.]]></item>
+        <item><![CDATA[Mempish Grizzlies adalah tim di wilayah Barat yang dibintangi oleh Ja Morant.]]></item>
+        <item><![CDATA[Miami Heat adalah tim di wilayah Timur yang dibintangi oleh Jimmy Butler.]]></item>
+        <item><![CDATA[Oklahama City Thunder adalah tim di wilayah Barat yang dibintangi oleh Shai.]]></item>
+        <item><![CDATA[San Antonio Spurs adalah tim di wilayah Barat yang dibintangi oleh Victor Wembanyama.]]></item>
+        <item><![CDATA[Toronto Raptors adalah tim di wilayah Timur yang dibintangi oleh Scottie Barnes.]]></item>
+        <item><![CDATA[Washington Wizard adalah tim di wilayah Timur yang dibintangi oleh Jordan Poole.]]></item>
+    </string-array>
+
+    <integer-array name="data_img_nba">
+        <item>@drawable/boston</item>
+        <item>@drawable/gsw</item>
+        <item>@drawable/clippers</item>
+        <item>@drawable/lakers</item>
+        <item>@drawable/griziles</item>
+        <item>@drawable/heat</item>
+        <item>@drawable/thunder</item>
+        <item>@drawable/spurs</item>
+        <item>@drawable/raptors</item>
+        <item>@drawable/wizard</item>
+    </integer-array>
+
+    <string-array name="data_name_premier_league">
+        <item>Arsenal</item>
+        <item>Aston Villa</item>
+        <item>Brighton</item>
+        <item>Chealsea</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Newcastle United</item>
+        <item>Tottenham Hotspur</item>
+        <item>West Ham United</item>
+    </string-array>
+
+    <string-array name="data_desc_premier_league">
+        <item><![CDATA[Arsenal saat ini menduduki peringkat 1 dengan pemain bintangnya yaitu Saka.]]></item>
+        <item><![CDATA[Aston Villa saat ini menduduki peringkat 4 dengan pemain bintangnya yaitu Martinez.]]></item>
+        <item><![CDATA[Brighton saat ini menduduki peringkat 12 dengan pemain bintangnya yaitu Webster.]]></item>
+        <item><![CDATA[Chealsea saat ini menduduki peringkat 9 dengan pemain bintangnya yaitu Palmer.]]></item>
+        <item><![CDATA[Liverpool saat ini menduduki peringkat 3 dengan pemain bintangnya yaitu Salah.]]></item>
+        <item><![CDATA[Manchester City saat ini menduduki peringkat 2 dengan pemain bintangnya yaitu Halland.]]></item>
+        <item><![CDATA[Manchester United saat ini menduduki peringkat 6 dengan pemain bintangnya yaitu Fernandes.]]></item>
+        <item><![CDATA[Newcastle United saat ini menduduki peringkat 7 dengan pemain bintangnya yaitu Joelinton.]]></item>
+        <item><![CDATA[Tottenham Hotspur saat ini menduduki peringkat 5 dengan pemain bintangnya yaitu Richarlison.]]></item>
+        <item><![CDATA[West Ham United saat ini menduduki peringkat 8 dengan pemain bintangnya yaitu Antonio.]]></item>
+    </string-array>
+
+    <integer-array name="data_img_premier_league">
+        <item>@drawable/arsenal</item>
+        <item>@drawable/astonvilla</item>
+        <item>@drawable/brighton</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/city</item>
+        <item>@drawable/united</item>
+        <item>@drawable/newcastle</item>
+        <item>@drawable/tottenham</item>
+        <item>@drawable/westham</item>
+    </integer-array>
+</resources>

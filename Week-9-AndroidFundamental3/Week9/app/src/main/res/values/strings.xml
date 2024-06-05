@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Week9</string>
+    <string name="judul_tv_show">judul tv show</string>
+    <string name="total_popularitas">total popularitas</string>
+    <string name="original_bahasa">original bahasa</string>
+    <string name="rilis_tv_show">rilis tv show</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description">deskripsi foto</string>
+    <string name="foto_show">foto show</string>
+    <string name="judul">judul</string>
+    <string name="judul_main">judul</string>
+    <string name="tahun_rilis_main">tahun rilis main</string>
+    <string name="judul_show_main">judul show main</string>
+    <string name="to_see_list_of_tv_shows">To See List Of Tv Shows</string>
+</resources>
